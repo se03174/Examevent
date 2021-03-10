@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examevent</string>
+    <string name="check_item">Check-item</string>
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+    <string name="tilte">TITLE</string>
+    <string name="name">Enter name</string>
+    <string name="ok">OK</string>
+</resources>
